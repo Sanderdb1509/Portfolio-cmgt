@@ -1,77 +1,14 @@
-body, html{
-  width: 100%;
-  height: 100%;
-  display: grid;
-  place-items: center;
-  background-image: url(https://img5.goodfon.com/wallpaper/nbig/e/63/obeziana-derevo-arbuz-martyshka.jpg);
-  background-width: 50%;
-  background-size: cover;
+body, contact.html{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    background-image: url(https://img5.goodfon.com/wallpaper/nbig/e/63/obeziana-derevo-arbuz-martyshka.jpg);
+    background-position: 50%;
     background-size: cover;
-    background-attachment:fixed;
-    margin: 0;
-    padding: 0;
-}
-.profile {
-  font-weight: 100;
-  font-size: 20;
-  color: #323232;
-  width: 25%;
-  height: 700;
-  margin: 2% auto;
-  padding: 10px;
-  background-color: #c5c5c5;
-  border: 1px solid #f5f5f5;
-  border-radius: 15px;
-  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
-  box-shadow:  0px 0px 10px 10px #f5f5f5;
-}
-
-img {
-width: 75%;
-height: 10%;
-border: 5px solid grey;
-}
-.overmij {
-  font-weight: 400;
-  font-size: 14px;
-  color: #323232;
-  width: 50%;
-  height: 100;
-  margin: 2%;
-  padding: 10px;
-  background-color: #c5c5c5;
-  border: 1px solid #f5f5f5;
-  border-radius: 15px;
-  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
-  box-shadow:  0px 0px 10px 10px #f5f5f5;
-}
-
-img {
-  width: 70%;
-  height: 10%;
-border: 5px solid grey;
-}
-
-.hobby {
- font-weight: 400;
-  font-size: 13px;
-  color: #323232;
-  width: 40%;
-  height: 100;
-  margin: 2% ;
-  padding: 20px;
-  background-color: #c5c5c5;
-  border: 1px solid #f5f5f5;
-  border-radius: 15px;
-  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
-  box-shadow:  0px 0px 10px 10px #f5f5f5;
-}
-
-img {
-width: 70%;
-height: 10%;
-border: 5px solid grey;
-}
-
-.socials{
-
+      background-size: cover;
+      background-attachment:fixed;
+      margin: 0;
+      padding: 0;
+    
+  }
